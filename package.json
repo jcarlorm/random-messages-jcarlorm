@@ -14,7 +14,15 @@
   "author": "Jose Carlo <josecarlo0407@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcarlorm/random-messages-jcarlorm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jcarlorm/random-messages-jcarlorm/issues"
+  },
+  "homepage": "https://github.com/jcarlorm/random-messages-jcarlorm#readme"
 }
